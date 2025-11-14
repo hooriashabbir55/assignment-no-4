@@ -1,2 +1,80 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>restrurant</title>
+    <h1><center>WELCOME</center></h1>
+   <center> <img src="./images/images.png" alt="resturant images" width=900" height=500" ></center>
+   <Center><h1>BREW'S & BITE RESTRURANT</h1></Center>
+    <h1>OUR SPECIAL MENU*</h1>
+
+    <ol>   
+<li>Biryani</li>
+<ul>
+<li><a href="./biryani/Chicken Biryani.html">Chicken Biryani  </a></li>
+<li><a href="./biryani/Beef Biryani.html"> Beef Biryani</a></li>
+<li><a href= "./biryani/Tikka Biryani.html">Tikka Biryani</li></a>
+</ul>
+<li>Palao</li>
+<ul>
+    <li><a href="./Pulao/Chicken Pulao.html ">Chicken Pulao</a></li>
+    <li><a href="./Pulao/Beef Pulao.html">Beef Pulao</a></li>
+     <li><a href="./Pulao/Mutton Pulao.html">Mutton Pulao</a></li>
+</ul>
+<li>Pizza</li>
+<ul>
+    <li><a href="./Pizza/veggie pizza.html"> veggie pizza</a></li>
+    <li><a href="./Pizza/Cheese pizza.html">Cheese pizza</a></li>
+    <li><a href="./Pizza/Pepperoni pizza.html">pepperoni pizza</a></li>
+</ul>
+<li>Burger</li>
+<ul>
+    <li><a href="./Burger/Beef burger.html">veggie burger</a> </li>
+    <li><a href="./Burger/Beef burger.html">Beef burger</a></li>
+    <li><a href="./Burger/Zinger burger.html">zingerburger</a></li>
+</ul>
+<li>Karahi</li>
+<ul>
+    <li><a href="./karahi/chicken.html">chicken karahi</a></li>
+    <li><a href="./karahi/beef.html">beef karahi</a></li>
+    <li><a href="./karahi/mutton.html">mutton karahi</a></li>
+</ul>
+<li>French fries</li>
+<ul>
+    <li><a href="./French fries/loaded fries.html">loaded fries</a></li>
+    <li><a href="./French fries/frozen fries.html">frozen fries</a></li>
+    <li><a href="./French fries/waffle fries.html">waffle fries</a></li>
+</ul>
+<li>Roll</li>
+<ul>
+    <li><a href="./roll/zinger roll.html">zinger roll</a></li>
+    <li><a href="./roll/beef roll.html">beef roll</a></li>
+    <li><a href="./roll/chicken roll.html">chicken roll</a></li>
+</ul>
+<li>Pasta </li>
+<ul>
+    <li><a href="./Pasta/penny.html">penny pasta</a></li>
+    <li><a href="./Pasta/macroni.html">macroni</a></li>
+    <li><a href="./Pasta/speghetti.html">Speghetti</a></li>
+</ul>
+<li>Korma</li>
+</head>
+<ul>
+    <li><a href="./korma/chickenkorma.html">chicken korma</a></li>
+    <li><a href="./korma/beefkorma.html">beef korma</a></li>
+    <li><a href="./korma/mutton korma.html">mutton korma</a></li>
+</body>
+</ul>
+<li>Ice cream</li>
+<ul>
+    <li><a href="./icecream/strawberry.html">strawberry icecreams</a></li>
+    <li><a href="./icecream/choclate.html">choclate icecream</a></li>
+    <li><a href="icecream/vanilla.html">vanilla icecream</a></li>
+</ul>
+
+    </ol>
+
+    <body>
+    </html>
